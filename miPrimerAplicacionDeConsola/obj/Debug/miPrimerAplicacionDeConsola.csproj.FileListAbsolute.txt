@@ -1,0 +1,6 @@
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\bin\Debug\miPrimerAplicacionDeConsola.exe.config
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\bin\Debug\miPrimerAplicacionDeConsola.exe
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\bin\Debug\miPrimerAplicacionDeConsola.pdb
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\obj\Debug\miPrimerAplicacionDeConsola.csprojResolveAssemblyReference.cache
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\obj\Debug\miPrimerAplicacionDeConsola.exe
+C:\Users\Yisus\Desktop\miPrimerAplicacionDeConsola\miPrimerAplicacionDeConsola\obj\Debug\miPrimerAplicacionDeConsola.pdb
