@@ -12,7 +12,6 @@ namespace miPrimerAplicacionDeConsola
         {
             // Comentario en el código
             Console.WriteLine("Hola mundo =)");
-            Console.Write("Cualquier texto....");
             Console.ReadKey();
         }
     }
